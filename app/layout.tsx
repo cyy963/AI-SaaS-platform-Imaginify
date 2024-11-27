@@ -40,14 +40,14 @@ export default function RootLayout({
         <body
           className={`${geistSans.variable} ${geistMono.variable} antialiased`}
         >
-          <header>
+          {/* <header>
             <SignedOut>
               <SignInButton mode="modal"/>
             </SignedOut>
             <SignedIn>
               <UserButton />
             </SignedIn>
-          </header>
+          </header> */}
           {children}
         </body>
       </html>
