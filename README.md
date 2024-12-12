@@ -12,6 +12,7 @@
   </div>
 
   <h3 align="center">An AI SaaS Platform</h3>
+</div>
 
 ## <a name="introduction">🤖 Introduction</a>
 
