@@ -123,7 +123,7 @@ STRIPE_WEBHOOK_SECRET=
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
 ```
 
-Replace the placeholder values with your actual respective account credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/), [MongoDB](https://www.mongodb.com/), [Cloudinary](https://cloudinary.com/) and [Stripe](https://stripe.com)
+Replace the placeholder values with your actual respective account credentials. You can obtain these credentials by signing up on [Clerk](https://clerk.com/) [Webhook Setup](https://clerk.com/docs/webhooks/sync-data#set-up-a-webhook-endpoint), [MongoDB](https://www.mongodb.com/), [Cloudinary](https://cloudinary.com/) and [Stripe](https://stripe.com)
 
 **Running the Project**
 
